@@ -1,0 +1,1 @@
+# bolashak_script
