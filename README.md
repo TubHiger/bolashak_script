@@ -4,48 +4,4 @@ I wrote a python script for parsing data from the official site Bolashak. The ou
 
 Here is piece of excel file:
 
-**University Name	Country**
-Australian National University	Австралия
-
-Center for English Teaching, University of Sydney	Австралия
-
-Curtin University	Австралия
-Deakin University	Австралия
-Hawthorn-Melbourne	Австралия
-Institute of Continuing & TESOL Education, University of Queensland	Австралия
-Macquarie University	Австралия
-Monash College, Monash University	Австралия
-Monash University	Австралия
-Queensland University of Technology	Австралия
-University of Adelaide	Австралия
-University of Melbourne	Австралия
-University of New South Wales	Австралия
-University of Queensland	Австралия
-University of Sydney	Австралия
-University of Technology Sydney	Австралия
-University of Western Australia	Австралия
-University of Wollongong	Австралия
-University of Innsbruck	Австрия
-University of Vienna	Австрия
-Ghent University	Бельгия
-KU Leuven	Бельгия
-KU Leuven Language Institue	Бельгия
-Universite libre de Bruxelles	Бельгия
-University of Antwerp	Бельгия
-Cardiff University	Великобритания
-Durham University	Великобритания
-Imperial College London	Великобритания
-King’s College London	Великобритания
-Lancaster University	Великобритания
-London School of Economics and Political Science	Великобритания
-Newcastle University	Великобритания
-Queen Mary University of London	Великобритания
-University College London	Великобритания
-University of Aberdeen	Великобритания
-University of Bath	Великобритания
-University of Birmingham	Великобритания
-University of Bristol	Великобритания
-University of Cambridge	Великобритания
-University of East Anglia	Великобритания
-University of Edinburgh	Великобритания
-University of Exeter	Великобритания
+![Screen Shot 2023-02-23 at 22 25 18](https://user-images.githubusercontent.com/17109698/221107595-5823442e-01a1-473b-930e-e5fc5698d1bb.png)
